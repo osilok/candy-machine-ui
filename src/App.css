@@ -7,7 +7,7 @@
 }
 
 body{
-background-color: var(--main-background-color);
+background-color: var(--main-background-);
   font-family: 'Patrick Hand', cursive;
   font-size: 1.1em;
 }
@@ -18,6 +18,10 @@ h2, p{
 
 h3{
 font-weight: normal;
+}
+
+main{
+  background-image: url(https://cdn.pixabay.com/photo/2019/11/07/08/40/honeycomb-structure-4608274__340.jpg) !important;
 }
 
 
